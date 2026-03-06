@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+    
+    
+        {
+            "name": "Debug Staging",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--web-renderer html",
+            ]
+        },
+    ]
+}
